@@ -1,0 +1,9 @@
+Server     1      CSE         SRV00101
+Desktop Computer     1      CSE         DTC00101
+Desktop Computer     2      CSE         DTC00201
+Laptop     1      CSE         LPT00101
+Printer     1      CSE         PTR00101
+Printer     2      CSE         PTR00201
+UPS     1      CSE         UPS00101
+Scanner     1      CSE         SCN00101
+Projector     1      CSE         PRJ00101

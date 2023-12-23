@@ -1,0 +1,2 @@
+1 PTR00201 Printer makes noises
+2 LPT00101 Laptop heats up so quicky and even hang a lott..

@@ -1,0 +1,6 @@
+ 1    Somya Garg        Btech        IT               00101022023
+ 1    Somya Garg        Btech        IT               00101022023
+ 2    Vansh Garg        Btech        ECE               00201032023
+ 3    Manya Garg        Bsc        IT               00104022023
+ 4    Poonam Garg        Btech        CSE-AI               00101052023
+ 1    Poonam Garg        Btech        ECE               00101032023

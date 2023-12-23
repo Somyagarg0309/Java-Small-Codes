@@ -1,6 +1,7 @@
 # Java-Small-Codes
 
 <------------Enrollment Generating System---------->
+
 I created a Menu driven Enrollment Generator System with the following features: -
 1. Generate Enrollment Number of Students:
 This option could lead to a section where you input the necessary details (such as course, department, 
@@ -23,6 +24,7 @@ This option would terminate the program, allowing you to gracefully exit the enr
 system
 
 <------------Inventory Management System---------->
+
 I created a Menu driven Enrollment Generator System with the following features: -
 1. Issue Inventory Items:
 This option could lead to a section where you issue inventory items to various departments. You would 

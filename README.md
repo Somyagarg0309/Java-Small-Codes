@@ -25,7 +25,7 @@ system
 
 <------------Inventory Management System---------->
 
-I created a Menu driven Enrollment Generator System with the following features: -
+I created a Menu driven Inventory Management System with the following features: -
 1. Issue Inventory Items:
 This option could lead to a section where you issue inventory items to various departments. You would 
 input the necessary details such as the department, the no of units of inventory items (server, desktop, 
